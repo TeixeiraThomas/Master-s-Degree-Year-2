@@ -1,6 +1,6 @@
 # ETNA Graduation Thesis
 
-This repository contains Thomas Teixeira\x27s ETNA graduation-thesis deliverables, from the initial research question and project framing to the final document.
+This repository contains Thomas Teixeira's ETNA graduation-thesis deliverables, from the initial research question and project framing to the final document.
 
 ## Thesis Lifecycle
 
