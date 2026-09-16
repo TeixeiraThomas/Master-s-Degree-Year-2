@@ -1,6 +1,18 @@
 # ETNA Graduation Thesis
 
-This repository contains the written deliverables for Thomas Teixeira's ETNA graduation thesis, from the initial research question to the final document.
+This repository contains Thomas Teixeira\x27s ETNA graduation-thesis deliverables, from the initial research question and project framing to the final document.
+
+## Thesis Lifecycle
+
+```mermaid
+flowchart LR
+    A[Company and role] --> B[Research question]
+    B --> C[Scope and methodology]
+    C --> D[Intermediate analysis]
+    D --> E[Project milestones]
+    E --> F[Final thesis]
+    F --> G[Presentation and archive]
+```
 
 ## Contents
 
@@ -9,19 +21,19 @@ This repository contains the written deliverables for Thomas Teixeira's ETNA gra
 - Intermediate analysis and project milestones
 - Final thesis documents in PDF and editable formats
 
-## Documents
+## Recommended Reading Order
 
-The repository includes the successive thesis stages and their corresponding PDF or DOCX files. The documents are kept as academic deliverables rather than executable source code.
-
-## Reading Order
-
-1. Start with the initial problem statement and outline.
-2. Review the intermediate stages to follow the research and project development.
+1. Read the initial problem statement and outline.
+2. Review the intermediate stages to understand the research progression.
 3. Read `etape_5.pdf` or `etape_5.docx` for the final version.
+
+## Document Policy
+
+The repository contains academic deliverables rather than executable source code. PDF files are the stable reading format; DOCX files are retained as editable working documents.
 
 ## Purpose
 
-This repository provides a transparent record of the thesis progression and the associated academic work completed during the ETNA program.
+This archive makes the evolution of the thesis transparent and preserves the supporting work completed during the ETNA program.
 
 ## Author
 
@@ -29,4 +41,4 @@ Thomas Teixeira
 
 ## Status
 
-Graduation thesis archive. The documents are maintained for reference and presentation purposes.
+Graduation-thesis archive maintained for academic reference and presentation.
